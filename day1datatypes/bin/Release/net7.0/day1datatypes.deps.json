@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "day1datatypes/1.0.0": {
+        "runtime": {
+          "day1datatypes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "day1datatypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

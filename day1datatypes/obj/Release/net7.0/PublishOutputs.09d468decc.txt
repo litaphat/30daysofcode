@@ -1,0 +1,5 @@
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\bin\Release\net7.0\publish\day1datatypes.exe
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\bin\Release\net7.0\publish\day1datatypes.dll
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\bin\Release\net7.0\publish\day1datatypes.deps.json
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\bin\Release\net7.0\publish\day1datatypes.runtimeconfig.json
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\bin\Release\net7.0\publish\day1datatypes.pdb

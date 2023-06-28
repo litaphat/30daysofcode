@@ -1,0 +1,15 @@
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\bin\Debug\net7.0\day1datatypes.exe
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\bin\Debug\net7.0\day1datatypes.deps.json
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\bin\Debug\net7.0\day1datatypes.runtimeconfig.json
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\bin\Debug\net7.0\day1datatypes.dll
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\bin\Debug\net7.0\day1datatypes.pdb
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\obj\Debug\net7.0\day1datatypes.csproj.AssemblyReference.cache
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\obj\Debug\net7.0\day1datatypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\obj\Debug\net7.0\day1datatypes.AssemblyInfoInputs.cache
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\obj\Debug\net7.0\day1datatypes.AssemblyInfo.cs
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\obj\Debug\net7.0\day1datatypes.csproj.CoreCompileInputs.cache
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\obj\Debug\net7.0\day1datatypes.dll
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\obj\Debug\net7.0\refint\day1datatypes.dll
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\obj\Debug\net7.0\day1datatypes.pdb
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\obj\Debug\net7.0\day1datatypes.genruntimeconfig.cache
+D:\Source Code\hankerrank\30daysofcode\day1datatypes\obj\Debug\net7.0\ref\day1datatypes.dll
