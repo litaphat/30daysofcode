@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day08dictionariesAndMaps", "day08dictionariesAndMaps.csproj", "{25DBC9C6-EC4F-4E61-8E8B-DEE93E561352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25DBC9C6-EC4F-4E61-8E8B-DEE93E561352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DBC9C6-EC4F-4E61-8E8B-DEE93E561352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DBC9C6-EC4F-4E61-8E8B-DEE93E561352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DBC9C6-EC4F-4E61-8E8B-DEE93E561352}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F200B076-C28C-4DAE-A16D-3C56BA2CC95A}
+	EndGlobalSection
+EndGlobal
